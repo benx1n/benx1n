@@ -6,7 +6,7 @@
 
 >你好呀！这是我的Github首页，它好看吗（~~不是~~）
 
->啥都玩，啥都D，会点剪辑，干过字幕~[本心Official](https://space.bilibili.com/20612969)
+>欢迎关注我的阿B账号：[本心Official](https://space.bilibili.com/20612969)
 
 >目前空闲时间在写一些~~奇奇怪怪的~~Bot功能
 
