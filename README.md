@@ -6,7 +6,9 @@
 
 >你好呀！这是我的Github首页，它好看吗（~~不是~~）
 
->欢迎访问我的个人主页哦：~它现在挂了~
+>啥都玩，啥都D，会点剪辑，干过字幕~[本心Official](https://space.bilibili.com/20612969)
+
+>目前空闲时间在写一些~~奇奇怪怪的~~Bot功能
 
 >这里会存一些在初学知识下写的简单无用的代码
 
@@ -16,7 +18,7 @@
 
 ----
 
-<a href="https://github.com/azmiao">
+<a href="https://github.com/benx1n">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benx1n&layout=compact&title_color=ffa000" />
 </a>
 
