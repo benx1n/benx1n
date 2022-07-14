@@ -1,4 +1,4 @@
-[![](https://s3.bmp.ovh/imgs/2022/02/2ccfb6d4f74a753e.jpg)](https://github.com/benx1n)
+[![](https://benx1n.oss-cn-beijing.aliyuncs.com/img/umamusume%20spica.jpg)](https://github.com/benx1n)
 
 <a href="https://github.com/benx1n">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=benx1n&show_icons=true&icon_color=ffca28&title_color=ffa000" />
