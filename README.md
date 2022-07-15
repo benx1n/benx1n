@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/azmiao">
+  <img src="https://benx1n.oss-cn-beijing.aliyuncs.com/img/Title.png" />
+  </a>
+</div>
+
 [![](https://s2.loli.net/2022/07/15/GqvpgQRmbJXYcDL.jpg)](https://github.com/benx1n)
 
 <a href="https://github.com/benx1n">
@@ -8,7 +14,7 @@
 
 >欢迎关注我的阿B账号：[本心Official](https://space.bilibili.com/20612969)
 
->目前空闲时间在写一些~~奇奇怪怪的~~Bot功能
+>目前空闲时间在写一些~~奇奇怪怪的~~东西
 
 >我非常的菜，已经菜的不能再菜了
 
