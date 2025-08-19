@@ -9,7 +9,7 @@
 [![总览](https://streak-stats.demolab.com/?user=benx1n&locale=zh_Hans&date_format=[Y.]n.j&card_width=405)](https://github.com/benx1n) [![统计](https://github-readme-stats.vercel.app/api?username=benx1n&show_icons=true&theme=buefy&custom_title=Github状态统计~&card_width=405)](https://github.com/benx1n)
 
 <a href="https://github.com/benx1n">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benx1n&show_icons=true&layout=compact&custom_title=使用的语言分布~&card_width=435" />
+  <img align="right" src="https://raw.githubusercontent.com/benx1n/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 >你好呀！这是我的Github首页，它好看吗（~~不是~~）
