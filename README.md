@@ -8,7 +8,7 @@
 
 [![总览](https://streak-stats.demolab.com/?user=benx1n&locale=zh_Hans&date_format=[Y.]n.j&card_width=405)](https://github.com/benx1n) 
 <a href="https://github.com/benx1n">
-  <img src="https://raw.githubusercontent.com/benx1n/github-stats/master/generated/overview.svg#gh-light-mode-only" height="200" />
+  <img align="right" src="https://raw.githubusercontent.com/benx1n/github-stats/master/generated/overview.svg#gh-light-mode-only" height="200" />
 </a>
 
 <a href="https://github.com/benx1n">
