@@ -6,7 +6,10 @@
 
 [![](https://s2.loli.net/2022/07/15/GqvpgQRmbJXYcDL.jpg)](https://github.com/benx1n)
 
-[![总览](https://streak-stats.demolab.com/?user=benx1n&locale=zh_Hans&date_format=[Y.]n.j&card_width=405)](https://github.com/benx1n) [![统计](https://github-readme-stats.vercel.app/api?username=benx1n&show_icons=true&theme=buefy&custom_title=Github状态统计~&card_width=405)](https://github.com/benx1n)
+[![总览](https://streak-stats.demolab.com/?user=benx1n&locale=zh_Hans&date_format=[Y.]n.j&card_width=405)](https://github.com/benx1n) 
+<a href="https://github.com/benx1n">
+  <img src="https://raw.githubusercontent.com/benx1n/github-stats/master/generated/overview.svg#gh-light-mode-only" height="200" />
+</a>
 
 <a href="https://github.com/benx1n">
   <img align="right" src="https://raw.githubusercontent.com/benx1n/github-stats/master/generated/languages.svg#gh-light-mode-only" />
